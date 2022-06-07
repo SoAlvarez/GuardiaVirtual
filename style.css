@@ -1,0 +1,28 @@
+html,
+body {
+    background-image: url(https://img.freepik.com/free-photo/stethoscope-frame-with-copy-space_23-2148506682.jpg?w=2000);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h3,
+h4,
+h5,
+h6 {
+    margin: 2%;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    font-size: 1.2rem;
+}
+
+#errores {
+    /*text-align:center;*/
+    margin: auto;
+    color: #ff4136;
+    /*padding-top:10px;*/
+}
